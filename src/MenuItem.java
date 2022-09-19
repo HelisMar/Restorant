@@ -5,5 +5,6 @@ public enum MenuItem {  //enum - stringid mis on fikseeritud (ei saa muuta) aga 
     Cake,
     Icecream,
     SoftDrink,
-    Alcohol
+    Alcohol,
+    Coctail
 }
