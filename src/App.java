@@ -7,7 +7,5 @@ public class App {
         Product IceCream = new Product(MenuItem.Icecream, 8.00);
         Product SoftDrink = new Product(MenuItem.SoftDrink, 5.00);
         Product Alcohol = new Product(MenuItem.Alcohol, 7.50);
-        Product ;
-
     }
 }
