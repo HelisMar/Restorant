@@ -1,3 +1,4 @@
+
 import java.util.LinkedList;
 import java.util.List;
 
@@ -6,5 +7,5 @@ public class Clients {
     int age;         //alkoholi müügiks tarvis
     int groupSize; 
     double cash;
-    List<String> order = new LinkedList<>();
+    List<Product> order = new LinkedList<>();
 }
